@@ -4,15 +4,15 @@
 
 <h1 align="center">Hi, I'm Max – aka Hawkmax 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=+Dev.+University.+Nerd.;Co-Founder+@+coldrock.games;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=BF40BF&center=true&vCenter=true&width=435&lines=+Dev.+University.+Nerd.;Co-Founder+@+coldrock.games;:3" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🎮 About Me
 
-- 🧠 University student at TU Wien since 2025/08
 - 💻 Fullstack experience
+- 🧠 University student at TU Wien since 2025/08
 - ❄️ Founded a company in 2025/02 (currently not employed): [coldrock.games](https://coldrock.games/)
 
 ---
@@ -47,6 +47,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)
+
 ---
 
 ### 🔭 Cool Stuff
@@ -54,12 +58,15 @@
 - 🌐 [www.coldrock.games](https://coldrock.games/)
 - 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – IT Book
 
+#### 📫 Let’s connect:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-schwarz-coldrock-games/)
+
+<img src="https://komarev.com/ghpvc/?username=MaxLab2002&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+
 ---
 
 <h3 align="center">🎮 My All-Time Favorites</h3>
 
-<div align="center">
-  
+<div align="center">  
   <table>
     <tr>
       <td align="center" width="140">
@@ -98,64 +105,4 @@
       </td>
     </tr>
   </table>
-
 </div>
-
-
----
-
-<h3 align="center">🕹️ Other Games I Love</h3>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Grand_Theft_Auto_V.jpg" width="120" /><br>
-        <b>Grand Theft Auto V</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Roguebook.png" width="120" /><br>
-        <b>Roguebook</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/CoD_Black_Ops_II.png" width="120" /><br>
-        <b>CoD:<br>Black Ops II - Multiplayer</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rainbow_Six_Siege.png" width="120" /><br>
-        <b>Rainbow Six Siege</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Doom.jpg" width="120" /><br>
-        <b>DOOM</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Baldurs_Gate_III.png" width="120" /><br>
-        <b>Baldur's Gate 3</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/The_Farmer_Was_Replaced.jpg" width="120" /><br>
-        <b>The Farmer Was Replaced</b>
-      </td>
-       <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Diablo_III.png" width="120" /><br>
-        <b>Diablo III</b>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
----
-
-### 📫 Let’s connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-schwarz-coldrock-games/)
-[![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
-
-
-<img src="https://komarev.com/ghpvc/?username=MaxLab2002&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
