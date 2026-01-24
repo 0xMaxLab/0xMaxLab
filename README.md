@@ -13,7 +13,7 @@
 
 - 💻 Fullstack experience
 - 🧠 University student at TU Wien since 2025/08
-- ❄️ Founded a company in 2025/02 (currently not employed): [coldrock.games](https://coldrock.games/)
+- ❄️ Founded a company in 2025/02: [coldrock.games](https://coldrock.games/)
 
 ---
 
