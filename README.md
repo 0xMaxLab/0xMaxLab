@@ -2,18 +2,18 @@
   <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Max – aka Hawk 👋</h1>
+<h1 align="center">Hi, I'm Max – aka Hawkmax 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=+Dev.+University.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=+Dev.+University.+Nerd.;Co-Founder+@+coldrock.games;" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🎮 About Me
 
-- 🎨 Game Developer at [coldrock.games](https://coldrock.games)
+- 🧠 University student at TU Wien since 2025/08
 - 💻 Fullstack experience
-- 🧠 University Student at TU Wien
+- ❄️ Founded a company in 2025/02 (currently not employed): [coldrock.games](https://coldrock.games/)
 
 ---
 
@@ -21,7 +21,7 @@
 
 | ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
 |:--:|:--:|:--:|:--:|
-| [@Breezy](https://github.com/RobertSkokic) | [@Grisgram](https://github.com/Grisgram) | [@Hawk](https://github.com/MaxLab2002) | [@Kiki](https://github.com/kikerikiki) | 
+| [@Breezy](https://github.com/RobertSkokic) | [@Grisgram](https://github.com/Grisgram) | [@Hawkmax](https://github.com/MaxLab2002) | [@Kiki](https://github.com/kikerikiki) | 
 
 
 ---
@@ -52,8 +52,7 @@
 ### 🔭 Cool Stuff
 
 - 🌐 [www.coldrock.games](https://coldrock.games/)
-- 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – Open-Source GameMaker-Framework  
-- 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – Praxisbuch für IT-Lehrlinge
+- 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – IT Book
 
 ---
 
