@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=BF40BF&center=true&vCenter=true&width=435&lines=+Dev.+University.+Nerd.;Co-Founder+@+coldrock.games;:3" alt="Typing Animation" />
 </p>
 
----
-
 ### 🎮 About Me
 
 - 💻 Fullstack experience
