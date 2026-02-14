@@ -15,6 +15,13 @@
 
 ---
 
+### 🔭 Cool Stuff
+
+- 🌐 [www.coldrock.games](https://coldrock.games/)
+- 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – IT Book
+
+---
+
 ### 👨‍🚀 The Coldrock Founders in Alphabetical Order
 
 | ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
@@ -48,13 +55,6 @@
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)
-
----
-
-### 🔭 Cool Stuff
-
-- 🌐 [www.coldrock.games](https://coldrock.games/)
-- 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – IT Book
 
 #### 📫 Let’s connect:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-schwarz-coldrock-games/)
 
