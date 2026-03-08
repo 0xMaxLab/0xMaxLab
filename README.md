@@ -17,7 +17,7 @@
 
 ### 🔭 Cool Stuff
 
-- 🧩 [RJSON](https://github.com/0xMaxLab/rjson-parser)
+- 🧩 [RJSON](https://github.com/0xMaxLab/rjson-parser) – JSON with multiple inheritances, references and commands
 - 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – IT Book
 
 ---
