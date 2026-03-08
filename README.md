@@ -11,6 +11,7 @@
 
 - 💻 Fullstack experience
 - 🧠 University student at TU Wien since 2025/08
+- 📱 Working on a cashflow mobile app for [feodos GmbH](https://www.feodos.at/)
 - ❄️ Founded a company in 2025/02: [coldrock.games](https://coldrock.games/)
 
 ---
