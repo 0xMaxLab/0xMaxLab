@@ -36,13 +36,13 @@
 #### On a daily basis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,ubuntu,vim,bash,js,ts,angular,nextjs,java,spring,cs,raspberrypi,regex,latex" />
+  <img src="https://skillicons.dev/icons?i=arch,ubuntu,vim,bash,js,ts,angular,nextjs,java,spring,raspberrypi,regex,latex" />
 </p>
 
 #### Keep it or loose it
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,mysql,react,firebase,docker,figma,py,godot,gamemakerstudio,windows,blender,perl,powershell,aws,mongodb,dotnet,dart,php,flutter,unity,ps,tensorflow,arduino,wordpress" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,cmake,mysql,react,firebase,docker,figma,py,godot,gamemakerstudio,windows,blender,perl,powershell,aws,mongodb,dotnet,dart,php,flutter,unity,ps,tensorflow,arduino,wordpress" />
 </p>
 
 ---
